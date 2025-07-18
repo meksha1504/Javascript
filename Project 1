@@ -15,4 +15,10 @@
   <h1> Text Formatting Tags </h1>
   <p> This is a <strong> Strong </strong> and <i> emphasized </i> text. </p>
   <p> Use <b> Bold </b>, <en> italic </em>, <u> Underline </u>, and <mark> Mark. </mark></p>
-  
+  <p> Here is <code> inline code </code> and <strike> strikethrough. </strike></p>
+  <p> This is a <small> small </small> and <sub> subscript </sub> / <sup> superscript.</sup></p>
+  <p><pre> This is a blackquote example. </pre></p>
+</selection>
+</body>
+</head>
+</html>
