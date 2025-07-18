@@ -1,0 +1,12 @@
+class Student
+  {
+  void sayHello()
+  {
+    system.out.println("Hello, I am Meksha!")
+  }
+    public static void main(String[] args) 
+    {
+        Student s=new student();
+          s.sayHello();
+    }
+}
